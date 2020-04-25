@@ -572,7 +572,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1287535640970860, guid: 17567c420ef650e43be9ef0d18a12c9d, type: 2}
       propertyPath: m_Name
-      value: Sphere Four
+      value: SphereFour
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 17567c420ef650e43be9ef0d18a12c9d, type: 2}
